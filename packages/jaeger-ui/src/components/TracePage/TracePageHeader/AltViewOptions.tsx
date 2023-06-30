@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import * as React from 'react';
-import { Dropdown, Icon, Menu, Button } from 'antd';
+import { Dropdown, Menu, Button } from 'antd';
+import Icon from '@ant-design/icons';
+
 import { Link } from 'react-router-dom';
 import './AltViewOptions.css';
 

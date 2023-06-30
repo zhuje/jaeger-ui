@@ -14,7 +14,9 @@
 
 import React from 'react';
 import { mount, shallow } from 'enzyme';
-import { Icon, notification } from 'antd';
+import { notification } from 'antd';
+import Icon from '@ant-design/icons';
+
 import ArchiveNotifier from './index';
 import { Details, Message } from '../../common/ErrorMessage';
 

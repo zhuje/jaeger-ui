@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import * as React from 'react';
-import { Upload, Icon } from 'antd';
+import { Upload } from 'antd';
+import Icon from '@ant-design/icons';
+
 
 const Dragger = Upload.Dragger;
 

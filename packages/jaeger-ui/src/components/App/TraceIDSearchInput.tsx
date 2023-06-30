@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import * as React from 'react';
-import { Form, Input, Icon } from 'antd';
+import { Form, Input } from 'antd';
+import Icon from '@ant-design/icons';
+
 import { RouteComponentProps, Router as RouterHistory, withRouter } from 'react-router-dom';
 
 import { getUrl } from '../TracePage/url';

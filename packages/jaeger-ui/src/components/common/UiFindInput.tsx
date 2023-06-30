@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import * as React from 'react';
-import { Icon, Input } from 'antd';
+import { Input } from 'antd';
+import Icon from '@ant-design/icons';
+
 import { History as RouterHistory, Location } from 'history';
 import _debounce from 'lodash/debounce';
 import _isString from 'lodash/isString';

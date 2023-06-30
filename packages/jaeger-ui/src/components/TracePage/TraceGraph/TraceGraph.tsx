@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import * as React from 'react';
-import { Card, Icon, Button, Tooltip } from 'antd';
+import { Card, Button, Tooltip } from 'antd';
+import Icon from '@ant-design/icons';
+
 import cx from 'classnames';
 import { Digraph, LayoutManager } from '@jaegertracing/plexus';
 import cacheAs from '@jaegertracing/plexus/lib/cacheAs';

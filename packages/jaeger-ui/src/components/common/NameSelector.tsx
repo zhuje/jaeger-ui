@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import * as React from 'react';
-import { Icon, Popover } from 'antd';
+import { Popover } from 'antd';
+import Icon from '@ant-design/icons';
+
 import cx from 'classnames';
 import IoChevronDown from 'react-icons/lib/io/chevron-down';
 

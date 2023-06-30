@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import React from 'react';
-import { Tooltip, Icon } from 'antd';
+import { Tooltip } from 'antd';
+import Icon from '@ant-design/icons';
+
 
 import './TimelineCollapser.css';
 

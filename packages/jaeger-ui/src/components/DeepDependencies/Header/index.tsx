@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import * as React from 'react';
-import { Icon, Input, Tooltip } from 'antd';
+import { Input, Tooltip } from 'antd';
+import Icon from '@ant-design/icons';
+
 import MdVisibility from 'react-icons/lib/md/visibility';
 import MdVisibilityOff from 'react-icons/lib/md/visibility-off';
 

@@ -15,7 +15,8 @@
 /* eslint-disable import/no-extraneous-dependencies */
 
 import * as React from 'react';
-import { Icon } from 'antd';
+import Icon from '@ant-design/icons';
+
 import VirtualizedSelect from 'react-virtualized-select';
 
 import 'react-select/dist/react-select.css';

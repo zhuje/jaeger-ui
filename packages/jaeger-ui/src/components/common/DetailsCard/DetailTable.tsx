@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import * as React from 'react';
-import { Icon, Table } from 'antd';
+import { Table } from 'antd';
+import Icon from '@ant-design/icons';
+
 import FaFilter from 'react-icons/lib/fa/filter.js';
 import _isEmpty from 'lodash/isEmpty';
 

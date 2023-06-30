@@ -14,7 +14,9 @@
 
 import React from 'react';
 import { shallow } from 'enzyme';
-import { Dropdown, Icon } from 'antd';
+import { Dropdown } from 'antd';
+import Icon from '@ant-design/icons';
+
 
 import CopyIcon from '../../../common/CopyIcon';
 

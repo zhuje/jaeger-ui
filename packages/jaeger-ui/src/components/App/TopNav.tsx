@@ -13,7 +13,8 @@
 // limitations under the License.
 
 import React from 'react';
-import { Dropdown, Icon, Menu } from 'antd';
+import { Dropdown, Menu } from 'antd';
+import Icon from '@ant-design/icons';
 import _has from 'lodash/has';
 import { connect } from 'react-redux';
 import { RouteComponentProps, Link, withRouter } from 'react-router-dom';

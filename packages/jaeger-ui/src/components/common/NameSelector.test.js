@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import React from 'react';
-import { Icon, Popover } from 'antd';
+import { Popover } from 'antd';
+import Icon from '@ant-design/icons';
+
 import { shallow } from 'enzyme';
 
 import BreakableText from './BreakableText';

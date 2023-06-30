@@ -15,7 +15,9 @@
 import * as React from 'react';
 import isEqual from 'lodash/isEqual';
 import { SorterResult } from 'antd/es/table';
-import { Row, Table, Progress, Button, Icon, Tooltip } from 'antd';
+import { Row, Table, Progress, Button, Tooltip } from 'antd';
+import Icon from '@ant-design/icons';
+
 import REDGraph from './opsGraph';
 import LoadingIndicator from '../../../common/LoadingIndicator';
 import { MetricsReduxState, ServiceOpsMetrics } from '../../../../types/metrics';

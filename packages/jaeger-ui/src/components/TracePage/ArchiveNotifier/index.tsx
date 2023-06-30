@@ -13,7 +13,9 @@
 // limitations under the License.
 
 import * as React from 'react';
-import { Icon, notification } from 'antd';
+import { notification } from 'antd';
+import Icon from '@ant-design/icons';
+
 
 import { Details, Message } from '../../common/ErrorMessage';
 import { TNil } from '../../../types';
